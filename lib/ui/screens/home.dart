@@ -32,7 +32,7 @@ class _HomeState extends State<Home> {
             child: BlocBuilder<CompanyCubit, List<Company>>(
                 builder: (context, companies) {
               return ListView.builder(
-                itemCount: companies.length,
+                itemCount: companies.length < 4 ? companies.length : 4,
                 itemBuilder: (BuildContext context, int index) {
                   final Company company = companies[index];
                   return Card(
