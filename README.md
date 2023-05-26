@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <h1 align="center">Search_app</h1>
 <div align="center">
-  <img src="tic_tac_toe.png" alt="Logo" width="80" height="80">
+  <img src="lieu.png" alt="Logo" width="80" height="80">
 </div>
 
 # Application de Recherche d'Adresses Postales
