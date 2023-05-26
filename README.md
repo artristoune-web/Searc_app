@@ -1,3 +1,9 @@
+<!-- PROJECT LOGO -->
+<h1 align="center">Search_app</h1>
+<div align="center">
+  <img src="tic_tac_toe.png" alt="Logo" width="80" height="80">
+</div>
+
 # Application de Recherche d'Adresses Postales
 
 Cette application mobile, développée en Flutter, permet à l'utilisateur de rechercher des adresses postales et de les enregistrer en tant que favoris. De plus, l'application permet de définir des informations supplémentaires pour chaque adresse, telles que le type de lieu (mairie, magasin, etc.) en utilisant des mots-clés.
